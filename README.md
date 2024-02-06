@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin Silva
-- 💻📚 I’m studying software test automation with Ruby and Cucumber
+- 💻📚 I’m studying software test automation 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/kevin-s-29b17413a/)
 
 <!---
