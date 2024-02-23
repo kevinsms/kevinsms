@@ -5,22 +5,26 @@ Olá! Sou kevin, um entusiasta de tecnologia apaixonado por programação e inov
 ## Sobre Mim
 
 - 🌱 Atualmente estou aprendendo Cypress com Javascript e Httparty com Ruby.
-- 👯 Estou procurando colaborar em projetos relacionados a de teste de software.
+- 👨‍💻 Estou procurando colaborar em projetos relacionados a de teste de software.
 
 ## Linguagens e Ferramentas
 
 Aqui estão algumas das linguagens de programação e ferramentas que estou familiarizado(a) e que uso em meus projetos:
 
 - **Linguagens:** 
-  Ruby e JavaScript
+  ![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 - **Frameworks e Tecnologias:** 
-  Capybara, Cucumber, Cypress, Selenium, Httparty e Docker
+  ![Capybara](https://img.shields.io/badge/-Capybara-2C3E50?logo=capybara&logoColor=white) ![Cucumber](https://img.shields.io/badge/-Cucumber-00A98F?logo=cucumber&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
+ ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) ![HTTParty](https://img.shields.io/badge/-HTTParty-5391FE?logo=rubygems&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
 
 ## Projetos Destacados
 
 Aqui estão alguns dos projetos em destaque nos quais tenho trabalhado recentemente:
 
-1. [CypressPrinti](#) - Projeto desenvolvido com objetivo de estudo e prática.
+1. [cypress-basico-v2](https://github.com/kevinsms/cypress-basico-v2)
+2. [Cypress-eXpress](https://github.com/kevinsms/Cypress-eXpress)
+3. [21-dias-dodev](https://github.com/kevinsms/21-dias-dodev)
 
 ## Estatísticas do GitHub
 
