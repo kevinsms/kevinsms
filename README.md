@@ -4,7 +4,7 @@ Olá! Sou kevin, um entusiasta de tecnologia apaixonado por programação e inov
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo Cypress com Javascript e Httparty com Ruby.
+- 🌱 Atualmente estou atuando Cypress com Javascript.
 - 👨‍💻 Estou procurando colaborar em projetos relacionados a de teste de software.
 
 ## Linguagens e Ferramentas
@@ -22,9 +22,10 @@ Aqui estão algumas das linguagens de programação e ferramentas que estou fami
 
 Aqui estão alguns dos projetos em destaque nos quais tenho trabalhado recentemente:
 
-1. [cypress-basico-v2](https://github.com/kevinsms/cypress-basico-v2)
-2. [Cypress-eXpress](https://github.com/kevinsms/Cypress-eXpress)
-3. [21-dias-dodev](https://github.com/kevinsms/21-dias-dodev)
+1. [cypress-intermediario-v2](https://github.com/kevinsms/cypress-intermediario-v2)
+2. [21-dias-dodev](https://github.com/kevinsms/21-dias-dodev)
+3. [Cypress-eXpress](https://github.com/kevinsms/Cypress-eXpress)
+
 
 ## Estatísticas do GitHub
 
